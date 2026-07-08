@@ -1,50 +1,65 @@
-Fatima Jassim Salman
+# Fatima Jassim Salman
 
-Cloud Computing & Full-Stack Developer
+**Cloud Computing & Software Engineer**
 
 Building cloud-native applications, backend systems, scalable APIs, and intelligent software solutions using AWS, Go, Rust, JavaScript, Python, Docker, Terraform, and modern development technologies.
 
 Currently focused on cloud engineering, backend development, distributed systems, and artificial intelligence through academic, personal, and industry projects.
 
-☁️ Tech Stack
+## ☁️ Tech Stack
 
-Cloud & DevOps
+### Cloud & DevOps
 
-AWS · Docker · Git · Linux/Bash · AWS CDK · IAM
+AWS · Docker · Terraform · Git · Linux/Bash · AWS CDK · IAM
 
-Programming
+### Programming
 
 Go (Golang) · Rust · Python · JavaScript
 
-Backend
+### Backend
 
-REST APIs ·  Node.js · Go · Rust
+REST APIs · Express.js · Node.js · Backend Development
 
 ### Frontend
 
-HTML · CSS · JavaScript · React
+HTML · CSS · JavaScript
 
-Database
+### Database
 
 SQLite · SQL · MySQL
 
-AI & Machine Learning
+### AI & Machine Learning
 
 BERT · NLP · TensorFlow · NLTK · Text Classification · Sentiment Analysis
 
-🚀 Current Focus
+## 🚀 Current Focus
 
-Cloud Computing & AWS
-Backend System Development
-Rust Programming
-Distributed Systems
-REST API Development
-Infrastructure as Code (Terraform & AWS CDK)
+* Cloud Computing & AWS
+* Backend System Development
+* Rust Programming
+* Distributed Systems
+* REST API Development
+* Infrastructure as Code (Terraform & AWS CDK)
 
-🤝 Connect
+## 📌 Featured Projects
+
+* 🚦 Smart Road Traffic Simulation (Rust + SDL2)
+* ☁️ AWS Cloud Projects
+* 🎓 UniHub Platform
+* 🤖 NLP & Machine Learning Projects
+* 💬 Go Forum Backend
+* 🔥 PyroSense AI
+
+## 📜 Certifications
+
+* Natural Language Processing Specialization
+* Parallel Computing with MPI
+* AWS Solution Architect Workshop (AICS Volunteer)
+
+## 🤝 Connect
 
 **LinkedIn:** linkedin.com/in/fatimajassim
 
-**GitHub:** github.com/19f6
+**GitHub:** github.com/YOUR_USERNAME
 
-**Email:** [fatimajassim196@gmail.com](mailto:fatimajassim1266@gmail.com)
+**Email:** [fatimajassim196@gmail.com](mailto:fatimajassim196@gmail.com)
